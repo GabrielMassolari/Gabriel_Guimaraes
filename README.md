@@ -1,3 +1,10 @@
+# Equipe
+  - Gabriel Guimarães
+  - Ricardo Magalhaes Simões
+  - Vinicus Toledo Massini
+
+
+
 # Prof Ricardo de Magalhães Simões
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
